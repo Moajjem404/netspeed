@@ -10,4 +10,4 @@ git clone https://github.com/Moajjem404/thbdspeed
 
 cd thbdspeed 
 
-python thbdspeed.py
+python speed.py
