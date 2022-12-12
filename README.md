@@ -6,8 +6,8 @@ Internet Speed Cheak
 
 pip3 install speedtest-cli
 
-git clone https://github.com/Moajjem404/thbdspeed
+git clone https://github.com/Moajjem404/netspeed
 
-cd thbdspeed 
+cd netspeed 
 
 python speed.py
